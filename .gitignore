@@ -6,3 +6,7 @@ __pycache__/
 .claude/
 page_content.md
 memo.txt
+output/
+agents/research/output/
+agents/mk_draft/output/
+credentials.json
